@@ -1,0 +1,533 @@
+{
+  "engines": [
+    {
+      "mfr": "renault",
+      "brand": "Renault",
+      "name": "1.2 TCe",
+      "code": "H5F",
+      "fuel": "petrol",
+      "cc": 1197,
+      "timing": "chain",
+      "apps": [
+        "Renault Clio IV",
+        "Captur",
+        "Mégane IV",
+        "Dacia Duster",
+        "Nissan Juke"
+      ],
+      "price": 1700,
+      "photos": [
+        "/assets/engine-d.png",
+        "/assets/engine-a.png",
+        "/assets/engine-c.png",
+        "/assets/engine-b.png"
+      ],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "renault",
+      "brand": "Renault",
+      "name": "0.9 TCe",
+      "code": "H4B",
+      "fuel": "petrol",
+      "cc": 898,
+      "timing": "chain",
+      "apps": [
+        "Renault Clio IV",
+        "Twingo III",
+        "Dacia Sandero",
+        "Logan"
+      ],
+      "price": 1450,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "renault",
+      "brand": "Renault",
+      "name": "1.5 dCi",
+      "code": "K9K",
+      "fuel": "diesel",
+      "cc": 1461,
+      "timing": "belt",
+      "apps": [
+        "Renault Clio",
+        "Mégane",
+        "Kadjar",
+        "Dacia Duster",
+        "Nissan Qashqai"
+      ],
+      "price": 1650,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "renault",
+      "brand": "Renault",
+      "name": "1.6 dCi",
+      "code": "R9M",
+      "fuel": "diesel",
+      "cc": 1598,
+      "timing": "chain",
+      "apps": [
+        "Renault Mégane",
+        "Scénic",
+        "Talisman",
+        "Nissan Qashqai",
+        "X-Trail"
+      ],
+      "price": 2100,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "vag",
+      "brand": "VW",
+      "name": "1.2 TSI",
+      "code": "CJZA",
+      "fuel": "petrol",
+      "cc": 1197,
+      "timing": "belt",
+      "apps": [
+        "VW Golf VII",
+        "Polo",
+        "Škoda Octavia III",
+        "Seat Leon"
+      ],
+      "price": 1750,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "vag",
+      "brand": "VW",
+      "name": "1.4 TSI",
+      "code": "CAXA",
+      "fuel": "petrol",
+      "cc": 1390,
+      "timing": "chain",
+      "apps": [
+        "VW Golf VI",
+        "Passat B7",
+        "Škoda Octavia II",
+        "Seat Leon"
+      ],
+      "price": 1850,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "vag",
+      "brand": "VW",
+      "name": "1.6 TDI",
+      "code": "CAYC",
+      "fuel": "diesel",
+      "cc": 1598,
+      "timing": "belt",
+      "apps": [
+        "VW Golf VI",
+        "Polo",
+        "Škoda Octavia II",
+        "Fabia"
+      ],
+      "price": 1600,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "vag",
+      "brand": "VW",
+      "name": "2.0 TDI",
+      "code": "CFFB",
+      "fuel": "diesel",
+      "cc": 1968,
+      "timing": "belt",
+      "apps": [
+        "VW Golf VI",
+        "Passat B7",
+        "Tiguan",
+        "Škoda Superb"
+      ],
+      "price": 1900,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "psa",
+      "brand": "Peugeot",
+      "name": "1.2 PureTech",
+      "code": "EB2DT",
+      "fuel": "petrol",
+      "cc": 1199,
+      "timing": "belt",
+      "apps": [
+        "Peugeot 208",
+        "308",
+        "3008",
+        "Citroën C3",
+        "C4"
+      ],
+      "price": 1800,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "psa",
+      "brand": "Peugeot",
+      "name": "1.6 HDi",
+      "code": "DV6C",
+      "fuel": "diesel",
+      "cc": 1560,
+      "timing": "belt",
+      "apps": [
+        "Peugeot 308",
+        "Partner",
+        "Citroën C4",
+        "Berlingo"
+      ],
+      "price": 1550,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "ford",
+      "brand": "Ford",
+      "name": "1.0 EcoBoost",
+      "code": "M1DA",
+      "fuel": "petrol",
+      "cc": 999,
+      "timing": "belt",
+      "apps": [
+        "Ford Fiesta",
+        "Focus",
+        "B-Max",
+        "C-Max"
+      ],
+      "price": 1700,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "ford",
+      "brand": "Ford",
+      "name": "1.5 TDCi",
+      "code": "XWDB",
+      "fuel": "diesel",
+      "cc": 1499,
+      "timing": "belt",
+      "apps": [
+        "Ford Focus",
+        "Fiesta",
+        "Transit Connect"
+      ],
+      "price": null,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "fiat",
+      "brand": "Fiat",
+      "name": "1.3 Multijet",
+      "code": "199A2.000",
+      "fuel": "diesel",
+      "cc": 1248,
+      "timing": "chain",
+      "apps": [
+        "Fiat Punto",
+        "Doblò",
+        "Opel Corsa D 1.3 CDTI"
+      ],
+      "price": null,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    },
+    {
+      "mfr": "mercedes",
+      "brand": "Mercedes-Benz",
+      "name": "2.2 CDI",
+      "code": "OM651",
+      "fuel": "diesel",
+      "cc": 2143,
+      "timing": "chain",
+      "apps": [
+        "Mercedes C W204",
+        "E W212",
+        "Sprinter",
+        "Vito"
+      ],
+      "price": null,
+      "photos": [],
+      "parts": {
+        "sr": [],
+        "en": []
+      }
+    }
+  ],
+  "steps": [
+    {
+      "sr": {
+        "t": "Prijem i evidencija",
+        "d": "Svaki motor dobija MR broj i prolazi ulaznu kontrolu."
+      },
+      "en": {
+        "t": "Intake and registration",
+        "d": "Every engine gets an MR number and passes intake inspection."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Rasklapanje i pranje",
+        "d": "Kompletno rasklapanje, industrijsko pranje i sortiranje delova."
+      },
+      "en": {
+        "t": "Disassembly and cleaning",
+        "d": "Complete disassembly, industrial cleaning and parts sorting."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Merenje i dijagnostika",
+        "d": "Merenje svih vitalnih mera i odluka o obradi i zameni delova."
+      },
+      "en": {
+        "t": "Measuring and diagnostics",
+        "d": "All vital dimensions measured; decisions on machining and replacement."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Mašinska obrada",
+        "d": "Blokovi, glave, radilice i klipnjače na DMG MORI, Rottler i laserskoj opremi."
+      },
+      "en": {
+        "t": "Machining",
+        "d": "Blocks, heads, crankshafts and rods on DMG MORI, Rottler and laser equipment."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Sklapanje",
+        "d": "Po fabričkim standardima, isključivo sa novim zamenskim delovima."
+      },
+      "en": {
+        "t": "Assembly",
+        "d": "To factory standards, exclusively with new replacement parts."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Test i završna kontrola",
+        "d": "Provera pritisaka, zaptivenosti i funkcija pre otpreme."
+      },
+      "en": {
+        "t": "Testing and final inspection",
+        "d": "Pressure, sealing and function checks before dispatch."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Pakovanje",
+        "d": "Zaštitno pakovanje na paleti, spremno za transport."
+      },
+      "en": {
+        "t": "Packing",
+        "d": "Protective packing on a pallet, ready for transport."
+      },
+      "photo": "",
+      "clip": ""
+    },
+    {
+      "sr": {
+        "t": "Isporuka i izvoz",
+        "d": "Utovar u kamion - isporuka u Srbiji, regionu i EU."
+      },
+      "en": {
+        "t": "Delivery and export",
+        "d": "Loaded onto the truck - delivered across Serbia, the region and the EU."
+      },
+      "photo": "",
+      "clip": ""
+    }
+  ],
+  "chapters": [
+    {
+      "time": "00:00",
+      "sr": "Prijem motora",
+      "en": "Engine intake"
+    },
+    {
+      "time": "00:15",
+      "sr": "Rasklapanje i pranje",
+      "en": "Disassembly and cleaning"
+    },
+    {
+      "time": "00:35",
+      "sr": "Merenje i dijagnostika",
+      "en": "Measuring and diagnostics"
+    },
+    {
+      "time": "00:55",
+      "sr": "Mašinska obrada",
+      "en": "Machining"
+    },
+    {
+      "time": "01:25",
+      "sr": "Sklapanje",
+      "en": "Assembly"
+    },
+    {
+      "time": "01:50",
+      "sr": "Test i završna kontrola",
+      "en": "Testing and final inspection"
+    },
+    {
+      "time": "02:10",
+      "sr": "Pakovanje",
+      "en": "Packing"
+    },
+    {
+      "time": "02:25",
+      "sr": "Utovar i transport",
+      "en": "Loading and transport"
+    }
+  ],
+  "videoUrl": "/media/life-of-an-engine.mp4",
+  "heroVideo": "/media/life-of-an-engine.mp4",
+  "videoPoster": "",
+  "brands": "",
+  "booksUrl": "https://mrengines-app.rs/kontrolna-tabla",
+  "yearly": 1200,
+  "aboutPhoto": "",
+  "tikiPhoto": "",
+  "certs": [
+    {
+      "url": ""
+    },
+    {
+      "url": ""
+    },
+    {
+      "url": ""
+    },
+    {
+      "url": ""
+    }
+  ],
+  "texts": {
+    "sr": {},
+    "en": {}
+  },
+  "gallery": [
+    {
+      "id": "g01",
+      "cat": "hall",
+      "src": ""
+    },
+    {
+      "id": "g02",
+      "cat": "machines",
+      "src": ""
+    },
+    {
+      "id": "g03",
+      "cat": "engines",
+      "src": ""
+    },
+    {
+      "id": "g04",
+      "cat": "team",
+      "src": ""
+    },
+    {
+      "id": "g05",
+      "cat": "hall",
+      "src": ""
+    },
+    {
+      "id": "g06",
+      "cat": "machines",
+      "src": ""
+    },
+    {
+      "id": "g07",
+      "cat": "engines",
+      "src": ""
+    },
+    {
+      "id": "g08",
+      "cat": "shipping",
+      "src": ""
+    },
+    {
+      "id": "g09",
+      "cat": "machines",
+      "src": ""
+    },
+    {
+      "id": "g10",
+      "cat": "team",
+      "src": ""
+    },
+    {
+      "id": "g11",
+      "cat": "engines",
+      "src": ""
+    },
+    {
+      "id": "g12",
+      "cat": "shipping",
+      "src": ""
+    }
+  ]
+}

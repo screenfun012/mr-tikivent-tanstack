@@ -1,0 +1,419 @@
+{
+  "hero": {
+    "video": "/assets/tikivent-hero.mp4",
+    "poster": "",
+    "items": 50000
+  },
+  "catalogUrl": "http://tiki.bavariahosting.com/orders/",
+  "email": "office@tikivent.co.rs",
+  "phones": [
+    "011 3979 636",
+    "011 3979 606"
+  ],
+  "messaging": "",
+  "brands": [
+    {
+      "id": "amc",
+      "name": "AMC",
+      "logo": "/assets/brands/brand-01.png",
+      "parts": [
+        "glave",
+        "ventili"
+      ]
+    },
+    {
+      "id": "nural",
+      "name": "Nüral",
+      "logo": "/assets/brands/brand-02.png",
+      "parts": [
+        "klipovi"
+      ]
+    },
+    {
+      "id": "corteco",
+      "name": "Corteco",
+      "logo": "/assets/brands/brand-03.png",
+      "parts": [
+        "dihtunzi",
+        "semerinzi"
+      ]
+    },
+    {
+      "id": "ks",
+      "name": "Kolbenschmidt",
+      "logo": "/assets/brands/brand-04.png",
+      "parts": [
+        "klipovi",
+        "karike",
+        "kosuljice",
+        "lezajevi"
+      ]
+    },
+    {
+      "id": "ruville",
+      "name": "Ruville",
+      "logo": "/assets/brands/brand-05.png",
+      "parts": [
+        "razvod",
+        "hladjenje"
+      ]
+    },
+    {
+      "id": "freccia",
+      "name": "Freccia",
+      "logo": "/assets/brands/brand-06.png",
+      "parts": [
+        "glave",
+        "bregaste",
+        "ventili"
+      ]
+    },
+    {
+      "id": "graf",
+      "name": "Graf",
+      "logo": "/assets/brands/brand-07.png",
+      "parts": [
+        "hladjenje"
+      ]
+    },
+    {
+      "id": "metelli",
+      "name": "Metelli",
+      "logo": "/assets/brands/brand-08.png",
+      "parts": [
+        "glave",
+        "bregaste",
+        "razvod",
+        "hladjenje",
+        "ulje"
+      ]
+    },
+    {
+      "id": "goetze",
+      "name": "Goetze",
+      "logo": "/assets/brands/brand-10.png",
+      "parts": [
+        "karike",
+        "kosuljice"
+      ]
+    },
+    {
+      "id": "elring",
+      "name": "Elring",
+      "logo": "/assets/brands/brand-11.png",
+      "parts": [
+        "dihtunzi",
+        "semerinzi"
+      ]
+    },
+    {
+      "id": "vernet",
+      "name": "Calorstat by Vernet",
+      "logo": "/assets/brands/brand-12.png",
+      "parts": [
+        "hladjenje"
+      ]
+    },
+    {
+      "id": "ne",
+      "name": "NE",
+      "logo": "/assets/brands/brand-13.png",
+      "parts": [
+        "karike"
+      ]
+    },
+    {
+      "id": "fai",
+      "name": "FAI",
+      "logo": "/assets/brands/brand-14.png",
+      "parts": [
+        "bregaste",
+        "razvod",
+        "ulje"
+      ]
+    },
+    {
+      "id": "mahle",
+      "name": "Mahle",
+      "logo": "/assets/brands/brand-15.png",
+      "parts": [
+        "ventili",
+        "klipovi",
+        "karike",
+        "kosuljice",
+        "lezajevi"
+      ]
+    },
+    {
+      "id": "autoventil",
+      "name": "AutoVentil",
+      "logo": "/assets/brands/brand-16.png",
+      "parts": [
+        "ventili"
+      ]
+    },
+    {
+      "id": "reinz",
+      "name": "Victor Reinz",
+      "logo": "/assets/brands/brand-17.png",
+      "parts": [
+        "dihtunzi",
+        "semerinzi"
+      ]
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "logo": "/assets/brands/brand-18.png",
+      "parts": [
+        "lezajevi"
+      ]
+    },
+    {
+      "id": "mec",
+      "name": "MEC Diesel",
+      "logo": "/assets/brands/brand-19.png",
+      "parts": [
+        "klipovi",
+        "kosuljice"
+      ]
+    },
+    {
+      "id": "arco",
+      "name": "Arco",
+      "logo": "/assets/brands/brand-20.png",
+      "parts": [
+        "klipovi",
+        "kosuljice"
+      ]
+    },
+    {
+      "id": "pierburg",
+      "name": "Pierburg",
+      "logo": "/assets/brands/brand-21.png",
+      "parts": [
+        "hladjenje",
+        "ulje"
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "id": "glave",
+      "short": "Glave motora",
+      "name": "Glave motora, vođice i sedišta",
+      "desc": "Nove glave motora, vođice i sedišta ventila za putnički, teretni i industrijski program."
+    },
+    {
+      "id": "bregaste",
+      "short": "Bregaste i podizači",
+      "name": "Bregaste, podizači i klackalice",
+      "desc": "Bregaste osovine, hidraulični podizači, klackalice i osovinice klackalica."
+    },
+    {
+      "id": "ventili",
+      "short": "Ventili",
+      "name": "Ventili",
+      "desc": "Usisni i izduvni ventili, standardne i pojačane izvedbe, za benzinske i dizel motore."
+    },
+    {
+      "id": "dihtunzi",
+      "short": "Dihtunzi",
+      "name": "Dihtunzi i garniture",
+      "desc": "Dihtunzi glave, kompletne garniture motora, dihtunzi poklopca ventila, usisa i izduva."
+    },
+    {
+      "id": "klipovi",
+      "short": "Klipovi",
+      "name": "Klipovi",
+      "desc": "Klipovi sa osovinicama i osiguračima, standardne i reparaturne mere, putnički i industrijski program."
+    },
+    {
+      "id": "karike",
+      "short": "Karike",
+      "name": "Karike",
+      "desc": "Kompleti karika po cilindru i po motoru, standardne i reparaturne mere."
+    },
+    {
+      "id": "kosuljice",
+      "short": "Košuljice",
+      "name": "Košuljice cilindra",
+      "desc": "Mokre i suve košuljice za putnička, teretna vozila i radne mašine."
+    },
+    {
+      "id": "lezajevi",
+      "short": "Ležajevi",
+      "name": "Ležajevi radilice i klipnjače",
+      "desc": "Glavni i leteći ležajevi, aksijalni ležajevi, standardne mere i podmere."
+    },
+    {
+      "id": "semerinzi",
+      "short": "Semerinzi",
+      "name": "Semerinzi i zaptivke",
+      "desc": "Semerinzi radilice i bregaste, zaptivke ventila (gumice), zaptivke poklopaca."
+    },
+    {
+      "id": "razvod",
+      "short": "Razvod",
+      "name": "Razvod: lanci, kaiševi, zatezači",
+      "desc": "Kompleti lanaca i kaiševa razvoda, zatezači, vođice, zupčanici i remenice."
+    },
+    {
+      "id": "hladjenje",
+      "short": "Pumpe za vodu",
+      "name": "Pumpe za vodu i termostati",
+      "desc": "Pumpe za vodu, termostati i kućišta termostata, senzori temperature."
+    },
+    {
+      "id": "ulje",
+      "short": "Pumpe za ulje",
+      "name": "Pumpe za ulje i vakuum pumpe",
+      "desc": "Pumpe za ulje, vakuum pumpe, EGR ventili i klapne usisa."
+    }
+  ],
+  "deals": [
+    {
+      "brand": "mahle",
+      "off": "-10%",
+      "title": "Klipovi i karike",
+      "note": "Putnički program, kompleti po motoru",
+      "until": "31.10.",
+      "image": ""
+    },
+    {
+      "brand": "elring",
+      "off": "-15%",
+      "title": "Garniture dihtunga glave",
+      "note": "Na lageru za najtraženije motore",
+      "until": "31.10.",
+      "image": ""
+    },
+    {
+      "brand": "graf",
+      "off": "2+1",
+      "title": "Pumpe za vodu",
+      "note": "Za servise sa veleprodajnim nalogom",
+      "until": "15.11.",
+      "image": ""
+    }
+  ],
+  "delivery": {
+    "freeBg": 3000,
+    "feeBg": 320,
+    "freeRs": 12000,
+    "hours": "pon - pet 08:00 - 16:00",
+    "sched": [
+      {
+        "zone": "Gradski",
+        "cutoff": "do kraja prethodnog dana",
+        "time": "08:00"
+      },
+      {
+        "zone": "Novi Beograd i Zemun",
+        "cutoff": "09:30",
+        "time": "10:00"
+      },
+      {
+        "zone": "Gradski",
+        "cutoff": "10:30",
+        "time": "11:00"
+      },
+      {
+        "zone": "Smederevski put - Leštane",
+        "cutoff": "11:30",
+        "time": "12:00"
+      },
+      {
+        "zone": "Novi Beograd i Zemun",
+        "cutoff": "14:15",
+        "time": "14:45"
+      },
+      {
+        "zone": "Gradski",
+        "cutoff": "14:15",
+        "time": "14:45"
+      }
+    ]
+  },
+  "locs": [
+    {
+      "name": "Beograd",
+      "tag": "Veleprodaja i maloprodaja",
+      "addr": "Prešernova 15, Beograd",
+      "wd": "08:00 - 16:00",
+      "sat": "",
+      "tels": [
+        "011 3979 636",
+        "011 3979 606"
+      ],
+      "maps": "https://maps.google.com/?q=Pre%C5%A1ernova+15,+Beograd"
+    },
+    {
+      "name": "Niš",
+      "tag": "Franšiza",
+      "addr": "Bulevar 12. februar 48, Niš",
+      "wd": "09:00 - 17:00",
+      "sat": "09:00 - 14:00",
+      "tels": [],
+      "maps": "https://maps.google.com/?q=Bulevar+12.+februar+48,+Ni%C5%A1"
+    },
+    {
+      "name": "Čačak",
+      "tag": "Franšiza",
+      "addr": "Danila Mitrovića Avrama 12, Čačak",
+      "wd": "08:00 - 17:00",
+      "sat": "08:00 - 14:00",
+      "tels": [],
+      "maps": "https://maps.google.com/?q=Danila+Mitrovi%C4%87a+Avrama+12,+%C4%8Ca%C4%8Dak"
+    }
+  ],
+  "timeline": [
+    {
+      "y": "1992",
+      "t": "Osnivanje",
+      "d": "Rezervni delovi za motore za rastuće domaće tržište."
+    },
+    {
+      "y": "1997",
+      "t": "Specijalizacija",
+      "d": "Reorganizacija: uvoz i prodaja delova motorne grupe postaju jedina delatnost."
+    },
+    {
+      "y": "2010",
+      "t": "Šira ponuda",
+      "d": "Trap i upravljanje, filteri, šasija, ležajevi točka, homokinetički zglobovi, kočnice."
+    },
+    {
+      "y": "Niš · Čačak",
+      "t": "Franšize",
+      "d": "Direktno prisustvo na jugu i zapadu Srbije uz veleprodaju i maloprodaju u Beogradu."
+    },
+    {
+      "y": "2025",
+      "t": "Deo MR Engines",
+      "d": "Remont motora i delovi pod jednim krovom sa liderom u mašinskoj obradi."
+    }
+  ],
+  "texts": {
+    "heroEyebrow": "Ovlašćeni distributer · od 1992",
+    "heroL1": "Delovi motorne grupe.",
+    "heroL2": "Spremno za razvoz.",
+    "heroSub": "Preko 50.000 artikala vodećih svetskih proizvođača na lageru u Beogradu - za putnička i teretna vozila, plovila, poljoprivredne i radne mašine.",
+    "stat1": "Artikala na lageru",
+    "stat2": "Brendova",
+    "stat3": "Razvoz dnevno · Beograd",
+    "stat4": "Objekta u Srbiji",
+    "partsTitle": "Dodirni deo. Vidi ko ga pravi.",
+    "partsSub": "Presek motora - izaberi grupu delova i vidi brendove koje držimo na lageru. Zatim pošalji upit ili otvori katalog.",
+    "brandsSub": "Dodirni logo i vidi koje grupe delova brend pokriva kod nas.",
+    "delivTitle": "Beograd šest puta dnevno. Srbija kurirom.",
+    "delivSub": "Sopstveni razvoz po Beogradu, AKS i City Express za ostatak Srbije. Porudžbine za kurira primamo radnim danima do 15:00.",
+    "dealsTitle": "Ovog meseca.",
+    "catTitle": "Lager, cene i porudžbine - za registrovane kupce veleprodaje.",
+    "aboutTitle": "Od 1992. Deo MR Engines od 2025.",
+    "aboutBody": "Tiki Vent je osnovan 1992. sa jasnim ciljem - kvalitetni rezervni delovi za motore na domaćem tržištu. Od 1997. specijalizovani smo za uvoz i prodaju delova motorne grupe, a lagerom od preko 50.000 artikala pokrivamo kompletnu potražnju Srbije.",
+    "mrTitle": "Remont motora i delovi pod jednim krovom.",
+    "mrBody": "Od 2025. Tiki Vent posluje u okviru MR Engines - lidera u mašinskoj obradi i remontu motora u Srbiji. Isti delovi koje ugrađujemo u remontovane motore, na lageru za vaš servis.",
+    "contactTitle": "Pošaljite upit. Odgovaramo u toku radnog dana."
+  }
+}
